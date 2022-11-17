@@ -1,0 +1,5 @@
+{"_id":"NV1","taiKhoan":{"loaiTaiKhoan":"Nhân viên hành chánh","matKhau":"1111"},"tenNV":"Trần Công Thành","trinhDoHocVan":"12/12","diaChiNV":"15 Lạc Long Quân","phongBan":"Hành chánh","chucVu":"Thu ngân","soDienThoaiNV":"0149151511"}
+{"_id":"NV5","taiKhoan":{"loaiTaiKhoan":"Quản lý","matKhau":"1111"},"tenNV":"Trần Phương Nam","trinhDoHocVan":"Đại học","diaChiNV":"672 Lê Hồng Phong","phongBan":"Nhân sự","chucVu":"Quản lý","soDienThoaiNV":"0151612313"}
+{"_id":"NV4","taiKhoan":{"loaiTaiKhoan":"Nhân viên hành chánh","matKhau":"1111"},"tenNV":"Nguyễn Ngọc Phương Thanh","trinhDoHocVan":"Đại học","diaChiNV":"687 Huỳnh Văn Bánh","phongBan":"Marketting","chucVu":"Tiếp thị","soDienThoaiNV":"0351214121"}
+{"_id":"NV2","taiKhoan":{"loaiTaiKhoan":"Quản lý","matKhau":"1111"},"tenNV":"Lê Thành Minh","trinhDoHocVan":"Đại học","diaChiNV":"34 Cách Mạng Tháng Tám","phongBan":"Hành chánh","chucVu":"Quản lý","soDienThoaiNV":"0412412415"}
+{"_id":"NV3","tenNV":"Nguyễn Văn Minh","trinhDoHocVan":"12/12","diaChiNV":"12 Nguyễn Bỉnh Khiêm","phongBan":"Hành chánh","chucVu":"Thu ngân","soDienThoaiNV":"0595691941"}
